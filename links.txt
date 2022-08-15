@@ -1,0 +1,5 @@
+Linux Device Drivers, Third Edition
+https://lwn.net/Kernel/LDD3/
+
+C dev blog:
+https://nullprogram.com/
