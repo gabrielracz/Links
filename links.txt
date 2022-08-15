@@ -6,3 +6,6 @@ https://nullprogram.com/
 
 CS online curriculum:
 http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+
+OSDEV books:
+https://wiki.osdev.org/Books
