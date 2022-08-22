@@ -18,3 +18,6 @@ https://github.com/jdah/minecraft-weekend/tree/master/src
 
 Labs for Computer Systems: A Programmer's Perspective
 http://csapp.cs.cmu.edu/3e/labs.html
+
+Streaming Computation of Delaunay Triangulations
+http://www.cs.unc.edu/~isenburg/sd/
