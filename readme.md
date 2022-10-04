@@ -24,3 +24,9 @@ http://www.cs.unc.edu/~isenburg/sd/
 
 Game Development with SDL2:\
 https://www.youtube.com/watch?v=MeMPCSqQ-34
+
+Cool cloud storage
+https://www.rsync.net/cloudstorage.html
+
+Pure class
+http://www.openssh.com/
