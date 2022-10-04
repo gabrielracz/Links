@@ -30,3 +30,6 @@ https://www.rsync.net/cloudstorage.html
 
 Pure class
 http://www.openssh.com/
+
+C Data Structure library \
+https://github.com/manvscode/libcollections
