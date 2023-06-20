@@ -33,3 +33,6 @@ http://www.openssh.com/
 
 C Data Structure library \
 https://github.com/manvscode/libcollections
+
+MurmurHash
+https://en.wikipedia.org/wiki/MurmurHash
